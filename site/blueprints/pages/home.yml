@@ -1,0 +1,122 @@
+title: Home
+
+columns:
+  - width: 2/3
+    fields:
+      about_intro:
+        label: Absatz vor 'Über Uns'
+        type: text
+        required: false
+      about_title:
+        label: Über Uns Titel
+        type: text
+        required: false
+      about_image:
+        label: Über Uns Bild
+        type: files
+        max: 1
+        multiple: false
+        required: true
+      about_text:
+        label: Über Uns Text
+        type: writer
+        size: large
+        required: false
+      references_title:
+        label: Netzwerk Titel
+        type: text
+        required: false
+      referenzen:
+        label: Netzwerk
+        type: structure
+        min: 1
+        max: 10
+        fields:
+          name:
+            label: Name
+            type: text
+            required: true
+          link:
+            label: Link
+            type: text
+            required: false
+          logo_path:
+            label: Logo
+            type: files
+            max: 1
+            multiple: false
+            required: true
+  - width: 1/3
+    fields:
+      description:
+        label: SEO Beschreibung
+        type: text
+        required: false
+      header_image:
+        label: Header Hintergrundbild
+        type: files
+        max: 1
+        multiple: false
+        required: true
+      navigation_links:
+        label: Navigation-Links
+        type: structure
+        min: 1
+        max: 4
+        fields:
+          link:
+            label: link
+            type: text
+          label:
+            label: Label
+            type: text
+      offers_title:
+        label: Angebote Titel
+        type: text
+        required: true
+      offer_1_title:
+        label: Angebot 1 Titel
+        type: text
+        required: true
+      offer_1_text:
+        label: Angebot 1 Text
+        type: writer
+        size: large
+        required: true
+      offer_2_title:
+        label: Angebot 2 Titel
+        type: text
+        required: true
+      offer_2_text:
+        label: Angebot 2 Text
+        type: writer
+        size: large
+        required: true
+      offer_3_title:
+        label: Angebot 3 Titel
+        type: text
+        required: true
+      offer_3_text:
+        label: Angebot 3 Text
+        type: writer
+        size: large
+        required: true
+      offer_4_title:
+        label: Angebot 4 Titel
+        type: text
+        required: true
+      offer_4_text:
+        label: Angebot 4 Text
+        type: writer
+        size: large
+        required: true
+      offer_4_img:
+        label: Angebot 4 Bild
+        type: files
+        max: 1
+        multiple: false
+        required: true
+      find_out_more:
+        label: Angebot-Link
+        type: text
+        required: true

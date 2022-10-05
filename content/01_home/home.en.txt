@@ -1,0 +1,137 @@
+Title: FiRe-Service & Consulting
+
+----
+
+About-intro: Depending on the consultancy mandate for your company, we will work together with tax and marketing experts, lawyers and an insurance agent.
+
+----
+
+About-title: Cornelia Toussaint
+
+----
+
+About-image:
+
+- >
+  portrait-min---x0-0-1110-1110-500-500x---.png
+
+----
+
+About-text: <p>The founder of FiRe-Service &amp; Consulting, Cornelia Toussaint, has professional work experience in the field of financing and accounting for more than thirty years in the field of human resources for more than twenty years and on the market for twelve years. She is a business economist and already successfully founded, accompanied and advised companies and associations. </p><p>The network that has been built up throughout former jobs enables a complex and stable consultancy.</p>
+
+----
+
+References-title: Partners
+
+----
+
+Referenzen:
+
+- 
+  name: 'RA für Handels- und Gesellschaftsrecht sowie Fachanwalt für Steuerrecht, Dr. Niels George'
+  link: http://www.georgepartner.de
+  logo_path:
+    - >
+      georgepartner_rechtsanwälte_logo_rgb-min.png
+- 
+  name: >
+    KONTOR Steuerberatungsgesellschaft mbH
+    Köpenick
+  link: http://kontor-stb.de/
+  logo_path:
+    - kontor.png
+- 
+  name: >
+    Versicherungsmaklerservice
+    Hertrich-Ohmann
+  link: http://www.mjho.de
+  logo_path:
+    - ohmann.png
+- 
+  name: Werk3 für Datenschutz
+  link: https://datenschutz-werk.de/
+  logo_path:
+    - 0-min.png
+- 
+  name: 'PEIX Healthcare Communication, Agentur für Design & Kommunikation GmbH'
+  link: http://www.peix.de/
+  logo_path:
+    - peix.png
+- 
+  name: Hecht, von Luxburg
+  link: http://www.hecht-kollegen.de
+  logo_path:
+    - hecht.png
+
+----
+
+Description: Depending on the consultancy mandate for your company, we will work together with tax and marketing experts, lawyers and an insurance agent.
+
+----
+
+Header-image:
+
+- business-2.jpg
+
+----
+
+Navigation-links:
+
+- 
+  link: '/#angebote'
+  label: Services
+- 
+  link: '/#ueber'
+  label: About FiRe-Service
+- 
+  link: '/#netzwerk'
+  label: Partners
+- 
+  link: '#kontakt'
+  label: Contact
+
+----
+
+Offers-title: Services
+
+----
+
+Offer-1-title: Consulting and Coaching
+
+----
+
+Offer-1-text: <p>You need consultancy for founding a business start-up or an association?</p><p>You need consultancy for your already existing company?</p><p>You need an external project manager?</p><p>We are a modern, owner-managed consulting for start-ups and pre-existing companies with many years of professional experience.</p>
+
+----
+
+Offer-2-title: Human Resources
+
+----
+
+Offer-2-text: <p>You need help during a company construction finding the right employees for your business? Out of a prospect pool or with the help of  job advertisements, we will find the matching employees for your company.</p><p>You need support by building a personnel bookkeeping with contract values and reports or somebody, who can take over this job as an extern? We will give you appropriate forms at hand, train your staff or we will work out these tasks external for you.</p>
+
+----
+
+Offer-3-title: Accounting
+
+----
+
+Offer-3-text: <p>You need help by building the finance department and fulfilling permanent activities (invoice receipt, invoicing, reminder and preliminary accounting, balance, reports and financial statements required by the tax office)?</p><p>Together with our network, we will take over these tasks for you.</p>
+
+----
+
+Offer-4-title: Sales Report
+
+----
+
+Offer-4-text: <p>You are facing challenges in the distribution of drugs or medical products?<br>We offer the support you need by approximately 100 self-employed PTA’s/pharmaceutical representatives/scientists (§75 AMG) throughout Germany.<br>You give us your preferred selection and pay only per call for our services, without staff responsibilities or car supply.</p><p>More info: <a href="https://sp-healthcare.de/" rel="noopener noreferrer nofollow">https://sp-healthcare.de/</a></p>
+
+----
+
+Offer-4-img:
+
+- sp-healthcareservices-logo-v2-gross.png
+
+----
+
+Find-out-more: Read more ...

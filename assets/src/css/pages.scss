@@ -1,0 +1,44 @@
+.page-content {
+  margin-top: -100px;
+  box-shadow: $standard-shadow;
+
+  header {
+    background-color: $background-transparent;
+
+    border-bottom: 3px solid $color-primary;
+  }
+  section {
+    background-color: white;
+  }
+  footer {
+    border-top: 1px solid #ddd;
+  }
+  .main-content {
+    h1 {
+      font-size: 30px;
+      font-family: inherit;
+      font-weight: 500;
+      color: black;
+    }
+
+    img {
+      max-width: 100%;
+      margin: auto;
+      padding: 10px 20px;
+    }
+  }
+
+  .andere-angebote {
+    overflow: auto;
+
+    .angebot {
+      width: 33.33333333%;
+      float: left;
+      background-size: cover;
+      background-position: 50%;
+      height: 100px;
+      color: white;
+      text-shadow: $standard-shadow;
+    }
+  }
+}

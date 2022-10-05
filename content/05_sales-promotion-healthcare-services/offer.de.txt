@@ -1,0 +1,45 @@
+title: Wie läuft ein Projekt ab?
+
+----
+
+Description: Sie haben Herausforderungen im Vertrieb von Arzneimitteln oder Medizinprodukten? Wir haben mit ca. 100 freiberuflichen PTA’s/Pharmareferenten/Naturwissenschaftlern (§ 75 AMG) ...deutschlandweit die nötige Unterstützung für Sie. ...Sie übergeben uns Ihre gewünschte Selektion und zahlen lediglich per Call für unsere Leistungen, ohne Personalverantwortung oder das Bereitstellen von Fahrzeugen.
+
+----
+
+slug: sales-promotion-healthcare-services
+
+----
+
+Header-image: 
+
+- sales.jpg
+
+----
+
+Back-link: Zurück zur Startseite
+
+----
+
+Other-offer-paths: 
+- 
+  path: beratung-und-coaching
+- 
+  path: personalservice
+- 
+  path: rechnungswesen-und-buchhaltung
+
+----
+
+Text:
+
+<p>Sie haben Herausforderungen im Vertrieb von Arzneimitteln oder Medizinprodukten?</p>
+
+<p>Wir bieten mit ca. 100 freiberuflichen PTA’s/Pharmareferenten/Naturwissenschaftlern (§ 75 AMG) deutschlandweit die nötige Unterstützung für Sie.</p>
+
+<p>Sie übergeben uns Ihre gewünschte Selektion und zahlen lediglich <strong>pro Call</strong> für unsere Leistungen, <em>ohne</em> Personalverantwortung oder das Bereitstellen von Fahrzeugen.</p>
+
+<p>Ob zu kleiner oder fehlender Außendienst, zu viele Produkte in der Besprechung, eine Neueinführung, einen temporären Personalengpass oder interne/externe Strukturveränderungen…</p>
+
+<p>Wir bringen Ihre Botschaft zu den selektierten Arztpraxen, Kliniken oder Apotheken.</p>
+
+<p>Mit der <em>Außendienstergänzung</em> erhalten Sie Unterstützung in Abstimmung mit Ihrem Außendienst. Temporär arbeiten wir auch als Ihr <em>externes Vertriebsteam</em> bei der klassischen Besprechung von Produkten oder Marktforschung sowie Mitbewerber-Umfeldanalyse. Ob mit oder ohne Musterabgabe, wir liefern entsprechend Ihrer Maßgabe im gewünschten Zeitraum die für Sie notwendigen Daten.</p>

@@ -1,0 +1,53 @@
+Title: Rechnungswesen und Buchhaltung
+
+----
+
+Slug: rechnungswesen-und-buchhaltung
+
+----
+
+Description: Sie benötigen Hilfe beim Aufbau und den fortlaufenden Tätigkeiten der Finanzabteilung (Rechnungseingang, Rechnungserstellung, Mahnwesen, vorbereitende Buchführung, Bilanz sowie sämtliche vom Finanzamt geforderte Berichte und Abschlüsse)? Gemeinsam mit unserem Netzwerk übernehmen wir dies für Sie. 
+
+----
+
+Header-image: 
+
+- finanzen-1.jpg
+
+----
+
+Back-link: Zurück zur Startseite
+
+----
+
+Other-offer-paths:
+
+- 
+  path: beratung-und-coaching
+- 
+  path: personalservice
+- 
+  path: sales-promotion-healthcare-services
+
+----
+
+Text:
+
+<p>Unsere Dienstleistungen erstrecken sich über die gesamte Finanzbuchhaltung:</p>
+
+<ul>
+  <li>Führen des Rechnungsbuches</li>
+  <li>Erfassen von Debitoten und Kreditoren</li>
+  <li>Rechnungseingangs- und -ausgangsprüfung</li>
+  <li>Mahnwesen</li>
+  <li>Portokasse (Anleitung/Abrechnung)</li>
+  <li>Kassenführung (Anleitung/Abrechnung)</li>
+  <li>Gestaltung eines für Sie passenden Kontenrahmens mit Kostenstellen/Spenderkonten</li>
+  <li>vorbereitende Buchhaltung mit Kontierung</li>
+  <li>Buchen in Zusammenarbeit mit dem Steuerbüro aus dem Netzwerk (bei Vereinen ist das Buchen direkt in unserem Hause möglich)</li>
+  <li>Aufbau eines firmeninternen Controllings</li>
+  <li>Aufbau und Führung der Anlagenbuchhaltung</li>
+  <li>Erstellen von Spendenbescheinigungen entsprechend Ihrer Freistellungsbescheide vom Finanzamt</li>
+  <li>Erstellen der Abschlüsse und Meldungen in Zusammenarbeit mit dem Steuerbüro aus dem Netzwerk</li>
+  <li>Entwicklung und Führung eines Berichtswesens nach Ihren Wünschen</li>
+</ul>

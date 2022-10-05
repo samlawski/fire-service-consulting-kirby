@@ -1,0 +1,49 @@
+Title: Consulting and Coaching
+
+----
+
+Slug: consulting-and-coaching
+
+----
+
+Description: You need consultancy for founding a business start-up or an association? You need consultancy for your already existing company? You need an external project manager? We are a modern, owner-managed consulting for start-ups and pre-existing companies with many years of professional experience. 
+
+----
+
+Header-image:
+
+- coaching.jpg
+
+----
+
+Back-link: Back to homepage
+
+----
+
+Text:
+
+<p>We will give you advice for the foundation of a company/association</p>
+
+<ul>
+  <li>To create a corporate structure/ company structure</li>
+  <li>To build up the different working areas</li>
+  <li>To help with requests and applications</li>
+  <li>Project management</li>
+</ul>
+
+<p>We will give you advice if you want to change the company structure.</p>
+
+<p>We will help you with restructuring the working procedures.</p>
+
+<p>Together, we will find a good solution for your company.</p>
+
+----
+
+Other-offer-paths:
+
+- 
+  path: accounting
+- 
+  path: human-resources
+- 
+  path: sales-promotion-healthcare-services

@@ -1,0 +1,53 @@
+Title: Accounting
+
+----
+
+Slug: accounting
+
+----
+
+Description: You need help by building the finance department and fulfilling permanent activities (invoice receipt, invoicing, reminder and preliminary accounting, balance, reports and financial statements required by the tax office)? Together with our network, we will take over these tasks for you. 
+
+----
+
+Header-image:
+
+- finanzen-1.jpg
+
+----
+
+Back-link: Back to homepage
+
+----
+
+Other-offer-paths:
+
+- 
+  path: human-resources
+- 
+  path: consulting-and-coaching
+- 
+  path: sales-promotion-healthcare-services
+
+----
+
+Text:
+
+<p>Our services reach over the entire financial accounting:</p>
+
+<ul>
+  <li>Keeping the account book</li>
+  <li>Recording the debitors and creditors</li>
+  <li>Checking incoming and outgoing invoices</li>
+  <li>Dunning</li>
+  <li>Petty cash (instruction/account)</li>
+  <li>Cash management (instruction/account)</li>
+  <li>Designing an appropriate account parameter with cost centers/donor accounts</li>
+  <li>Preparatory bookkeeping with account assignment</li>
+  <li>Booking in cooperation with the tax office from our network (booking for associations is directly possible in our company)</li>
+  <li>Development of a company-internal controlling</li>
+  <li>Development and controlling of the fixed asset accounting</li>
+  <li>Preparation of donation receipts according to your notices of exemption from the tax authority</li>
+  <li>Preparation of financial statements and reports in cooperation with the tax office from our network</li>
+  <li>Development and controlling of a reporting system according to your wishes</li>
+</ul>

@@ -1,0 +1,48 @@
+Title: Human Resources
+
+----
+
+Slug: human-resources
+
+----
+
+Text:
+
+<p>To hire employees for a company/association, it requires different <strong>applications</strong>. We will support you in these preparatory activities.</p>
+
+<p>We will help you with the development of <strong>personnel files</strong>(employment contract/job description/working policy /attendance schedule/vacation requests/collective agreement and many more).</p>
+
+<p>You are looking for <strong>employees</strong>? We will post job advertisements on its behalf or we will select and recruit employees for you from our employee pool. We will work with the applications according to your preferences and divide them in the ones you might be and the ones you might not be interested in. We will even be able to formulate and send the rejections letters and schedule the job interviews, which can also take place in our business rooms together with you or if agreed in your absence.</p>
+
+<p>If you might have to organize a <strong>kick-off conference</strong>, we will give you advice with our long-term experiences and contacts in this field.</p>
+
+<p>According to your preferences we will build up an <strong>employee controlling</strong> and the <strong>reporting system</strong>.</p>
+
+<p>You will receive support from us for setting up the <strong>expense</strong> and <strong>other reports</strong>.</p>
+
+<p>We will support you in building up a <strong>fleet management</strong>through training and instruction of your employees or as a service performed from us.</p>
+
+----
+
+Description:  You need help during a company construction finding the right employees for your business? Out of a prospect pool or with the help of  job advertisements, we will find the matching employees for your company. You need support by building a personnel bookkeeping with contract values and reports or somebody, who can take over this job as an extern? We will give you appropriate forms at hand, train your staff or we will work out these tasks external for you. 
+
+----
+
+Header-image:
+
+- personal.jpg
+
+----
+
+Back-link: Back to homepage
+
+----
+
+Other-offer-paths:
+
+- 
+  path: accounting
+- 
+  path: consulting-and-coaching
+- 
+  path: sales-promotion-healthcare-services

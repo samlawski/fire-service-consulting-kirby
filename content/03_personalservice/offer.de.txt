@@ -1,0 +1,48 @@
+Title: Personalservice
+
+----
+
+Slug: personalservice
+
+----
+
+Text:
+
+<p>Um Mitarbeiter in einem Unternehmen/Verein anstellen zu können, bedarf es ebenfalls diverser <strong>Anmeldungen</strong>. Wir unterstützen Sie bei diesen vorbereitenden Tätigkeiten.</p>
+
+<p>Wir helfen Ihnen beim Aufbau der <strong>Personalakten</strong> (Anstellungsvertrag/Stellenbeschreibung/Arbeitsrichtlinie/Anwesenheitsplan/Urlaubsanträge/Tarifvertrag uvm.).</p>
+
+<p>Sie suchen <strong>Mitarbeiter</strong>? Wir geben in Ihrem Auftrag Stellenanzeigen auf oder vermitteln Ihnen diese aus unserem Mitarbeiterpool. Wir bearbeiten die Bewerbungen nach Ihren Vorstellungen und selektieren diese bis hin zu Absageschreiben und Bewerbungsgesprächen, welche gern auch in unseren Räumen mit Ihnen gemeinsam oder auch ohne Ihre Anwesenheit erfolgen können.</p>
+
+<p>Sollten Sie bei einer <strong>Auftakttagung</strong> Hilfe benötigen, stehen wir Ihnen mit unseren langjährigen Erfahrungen und Kontakten auf diesem Gebiet zur Seite.</p>
+
+<p>Wir bauen nach Ihren Vorstellungen ein <strong>Mitarbeitercontrolling</strong> und das <strong>Berichtswesen</strong> auf.</p>
+
+<p>Sie erhalten von uns Unterstützung beim Einrichten von <strong>Spesen-</strong> oder <strong>sonstigen Abrechnungen</strong>.</p>
+
+<p>Wir unterstützen Sie beim Aufbau des <strong>Fuhrparkmanagements</strong> durch Schulung und Einweisung Ihrer Mitarbeiter oder übernehmen diesen Arbeitsbereich wenn gewünscht auch als externer Dienstleister.</p>
+
+----
+
+Description: Sie benötigen Hilfe, im Zuge des Firmenaufbaus die richtigen Mitarbeiter für Ihr Unternehmen zu finden? Aus einem Interessentenpool oder durch Stellenanzeigen finden wir die passenden Mitarbeiter für Sie. Sie benötigen Unterstützung beim Aufbau der Personalbuchhaltung mit sämtlichen Vertragswerken und Meldungen oder jemanden, der dies extern für Ihre Firma übernimmt? Wir stellen Ihnen entsprechende Formulare zur Verfügung, weisen Ihr Personal ein oder erledigen diese Aufgaben extern für Sie. 
+
+----
+
+Header-image:
+
+- personal.jpg
+
+----
+
+Back-link: Zurück zur Startseite
+
+----
+
+Other-offer-paths:
+
+- 
+  path: beratung-und-coaching
+- 
+  path: rechnungswesen-und-buchhaltung
+- 
+  path: sales-promotion-healthcare-services

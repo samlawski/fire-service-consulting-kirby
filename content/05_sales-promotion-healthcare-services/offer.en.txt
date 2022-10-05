@@ -1,0 +1,46 @@
+Title: S&P Healthcare Services
+
+----
+
+Slug: sales-promotion-healthcare-services
+
+----
+
+Description: You are facing challenges in the distribution of drugs or medical products? We offer the support you need by approximately 100 self-employed PTA’s/pharmaceutical representatives/scientists (§75 AMG) throughout Germany. You give us your preferred selection and pay only per call for our services, without staff responsibilities or car supply.
+
+----
+
+Header-image:
+
+- sales.jpg
+
+----
+
+Back-link: Back to homepage
+
+----
+
+Other-offer-paths:
+
+- 
+  path: human-resources
+- 
+  path: consulting-and-coaching
+- 
+  path: accounting
+
+----
+
+Text: 
+
+<p>You are facing challenges in the distribution of drugs or medical products?</p>
+
+<p>We offer the support you need by approximately 100 self-employed PTA’s/pharmaceutical representatives/scientists (§75 AMG) throughout Germany.</p>
+
+<p>You give us your preferred selection and pay only <strong>per call</strong> for our services, without staff responsibilities or car supply.</p>
+
+<p>If your sales force is too small or not existing, too many products in the promotion, a new launch, a temporarily lack of employees or internal/external structural changes…</p>
+
+<p>We will bring your message to the selected medical practices, clinics or pharmacies.</p>
+
+<p>With <em>additional sales representatives</em> you receive support in cooperation with your sales force. Temporarily, we can also work as your <em>external sales team</em> for the promotion of the products or market research as well as competitor environment analysis. With or without samples, we deliver according to your requirements the relevant data within the requested time period.</p>

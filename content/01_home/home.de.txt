@@ -1,0 +1,137 @@
+Title: FiRe-Service & Consulting
+
+----
+
+About-intro: Je nach Beratungsauftrag arbeiten wir für Ihr Unternehmen mit Steuer- und Marketingexperten, Rechtsanwälten sowie einem Versicherungsmakler zusammen.
+
+----
+
+About-title: Cornelia Toussaint
+
+----
+
+About-image:
+
+- >
+  portrait-min---x0-0-1110-1110-500-500x---.png
+
+----
+
+About-text: <p>Die Gründerin von FiRe-Service und Consulting, Cornelia Toussaint, verfügt über mehr als dreißig Jahre Berufserfahrung im Bereich Finanzen/Rechnungswesen, über mehr als zwanzig Jahre im Bereich Personal und zwölf Jahre im Vertrieb. Sie ist Betriebswirtin und konnte bereits erfolgreich Unternehmen sowie Vereine gründen, begleiten und beraten. Das daraus entstandene Netzwerk ermöglicht eine komplexe und stabile Beratung.</p>
+
+----
+
+References-title: Firmennetzwerk & Kooperationspartner
+
+----
+
+Referenzen:
+
+- 
+  name: 'RA für Handels- und Gesellschaftsrecht sowie Fachanwalt für Steuerrecht, Dr. Niels George'
+  link: http://www.georgepartner.de
+  logo_path:
+    - >
+      georgepartner_rechtsanwälte_logo_rgb-min.png
+- 
+  name: >
+    KONTOR Steuerberatungsgesellschaft mbH
+    Köpenick
+  link: http://kontor-stb.de/
+  logo_path:
+    - kontor.png
+- 
+  name: >
+    Versicherungsmaklerservice
+    Hertrich-Ohmann
+  link: http://www.mjho.de
+  logo_path:
+    - ohmann.png
+- 
+  name: Werk3 für Datenschutz
+  link: https://datenschutz-werk.de/
+  logo_path:
+    - 0-min.png
+- 
+  name: 'PEIX Healthcare Communication, Agentur für Design & Kommunikation GmbH'
+  link: http://www.peix.de/
+  logo_path:
+    - peix.png
+- 
+  name: Hecht, von Luxburg
+  link: http://www.hecht-kollegen.de
+  logo_path:
+    - hecht.png
+
+----
+
+Description: Je nach Beratungsauftrag arbeiten wir für Ihr Unternehmen mit Steuer- und Marketingexperten, Rechtsanwälten sowie einem Versicherungsmakler zusammen.
+
+----
+
+Header-image:
+
+- business-2.jpg
+
+----
+
+Navigation-links:
+
+- 
+  link: '/#angebote'
+  label: Angebote
+- 
+  link: '/#ueber'
+  label: Über FiRe-Service
+- 
+  link: '/#netzwerk'
+  label: Firmennetzwerk
+- 
+  link: '#kontakt'
+  label: Kontakt
+
+----
+
+Offers-title: Angebote
+
+----
+
+Offer-1-title: Beratung und Coaching
+
+----
+
+Offer-1-text: <p>Sie suchen eine Beratung bei der Existenz- oder Vereinsgründung?</p><p>Sie suchen Beratung für Ihr bereits bestehendes Unternehmen?</p><p>Sie benötigen einen externen Projektmanager?</p><p>Wir sind eine moderne, inhabergeführte Unternehmensberatung für Existenzgründer und bestehende Unternehmen mit langjähriger Berufserfahrung.</p>
+
+----
+
+Offer-2-title: Personalservice
+
+----
+
+Offer-2-text: <p>Sie benötigen Hilfe, im Zuge des Firmenaufbaus die richtigen Mitarbeiter für Ihr Unternehmen zu finden? Aus einem Interessentenpool oder durch Stellenanzeigen finden wir die passenden Mitarbeiter für Sie.</p><p>Sie benötigen Unterstützung beim Aufbau der Personalbuchhaltung mit sämtlichen Vertragswerken und Meldungen oder jemanden, der dies extern für Ihre Firma übernimmt?</p><p>Wir stellen Ihnen entsprechende Formulare zur Verfügung, weisen Ihr Personal ein oder erledigen diese Aufgaben extern für Sie.</p>
+
+----
+
+Offer-3-title: Rechnungswesen und Buchhaltung
+
+----
+
+Offer-3-text: <p>Sie benötigen Hilfe beim Aufbau und den fortlaufenden Tätigkeiten der Finanzabteilung (Rechnungseingang, Rechnungserstellung, Mahnwesen, vorbereitende Buchführung, Bilanz sowie sämtliche vom Finanzamt geforderte Berichte und Abschlüsse)?</p><p>Gemeinsam mit unserem Netzwerk übernehmen wir dies für Sie.</p>
+
+----
+
+Offer-4-title: Vertriebsunterstützung
+
+----
+
+Offer-4-text: <p>Sie haben Herausforderungen im Vertrieb von Arzneimitteln oder Medizinprodukten?<br>Wir haben mit ca. 100 freiberuflichen PTA’s/Pharmareferenten/Naturwissenschaftlern (§ 75 AMG) ...deutschlandweit die nötige Unterstützung für Sie.<br>...Sie übergeben uns Ihre gewünschte Selektion und zahlen lediglich per Call für unsere Leistungen, ohne Personalverantwortung oder das Bereitstellen von Fahrzeugen.</p><p>Mehr erfahren Sie auch unter: <a href="https://sp-healthcare.de/" rel="noopener noreferrer nofollow">https://sp-healthcare.de/</a></p>
+
+----
+
+Offer-4-img:
+
+- sp-healthcareservices-logo-v2-gross.png
+
+----
+
+Find-out-more: Mehr erfahren...
