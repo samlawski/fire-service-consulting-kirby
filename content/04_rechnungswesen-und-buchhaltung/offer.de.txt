@@ -6,13 +6,11 @@ Slug: rechnungswesen-und-buchhaltung
 
 ----
 
-Description: Sie benötigen Hilfe beim Aufbau und den fortlaufenden Tätigkeiten der Finanzabteilung (Rechnungseingang, Rechnungserstellung, Mahnwesen, vorbereitende Buchführung, Bilanz sowie sämtliche vom Finanzamt geforderte Berichte und Abschlüsse)? Gemeinsam mit unserem Netzwerk übernehmen wir dies für Sie. 
+Description: Sie benötigen Hilfe beim Aufbau und den fortlaufenden Tätigkeiten der Finanzabteilung (Rechnungseingang, Rechnungserstellung, Mahnwesen, vorbereitende Buchführung, Bilanz sowie sämtliche vom Finanzamt geforderte Berichte und Abschlüsse)? Gemeinsam mit unserem Netzwerk übernehmen wir dies für Sie.
 
 ----
 
-Header-image: 
-
-- finanzen-1.jpg
+Header-image: - finanzen-1.jpg
 
 ----
 
@@ -51,3 +49,7 @@ Text:
   <li>Erstellen der Abschlüsse und Meldungen in Zusammenarbeit mit dem Steuerbüro aus dem Netzwerk</li>
   <li>Entwicklung und Führung eines Berichtswesens nach Ihren Wünschen</li>
 </ul>
+
+----
+
+Uuid: lP1L1DTGLzeGBI0y

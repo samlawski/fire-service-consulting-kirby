@@ -24,13 +24,11 @@ Text:
 
 ----
 
-Description: Sie benötigen Hilfe, im Zuge des Firmenaufbaus die richtigen Mitarbeiter für Ihr Unternehmen zu finden? Aus einem Interessentenpool oder durch Stellenanzeigen finden wir die passenden Mitarbeiter für Sie. Sie benötigen Unterstützung beim Aufbau der Personalbuchhaltung mit sämtlichen Vertragswerken und Meldungen oder jemanden, der dies extern für Ihre Firma übernimmt? Wir stellen Ihnen entsprechende Formulare zur Verfügung, weisen Ihr Personal ein oder erledigen diese Aufgaben extern für Sie. 
+Description: Sie benötigen Hilfe, im Zuge des Firmenaufbaus die richtigen Mitarbeiter für Ihr Unternehmen zu finden? Aus einem Interessentenpool oder durch Stellenanzeigen finden wir die passenden Mitarbeiter für Sie. Sie benötigen Unterstützung beim Aufbau der Personalbuchhaltung mit sämtlichen Vertragswerken und Meldungen oder jemanden, der dies extern für Ihre Firma übernimmt? Wir stellen Ihnen entsprechende Formulare zur Verfügung, weisen Ihr Personal ein oder erledigen diese Aufgaben extern für Sie.
 
 ----
 
-Header-image:
-
-- personal.jpg
+Header-image: - personal.jpg
 
 ----
 
@@ -46,3 +44,7 @@ Other-offer-paths:
   path: rechnungswesen-und-buchhaltung
 - 
   path: sales-promotion-healthcare-services
+
+----
+
+Uuid: EbgEp0ytyCPkdEWq

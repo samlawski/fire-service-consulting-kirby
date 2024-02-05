@@ -1,18 +1,16 @@
-title: Beratung und Coaching
+Title: Beratung und Coaching
 
 ----
 
-Description: Sie suchen eine Beratung bei der Existenz- oder Vereinsgründung? Sie suchen Beratung für Ihr bereits bestehendes Unternehmen? Sie benötigen einen externen Projektmanager? Wir sind eine moderne, inhabergeführte Unternehmensberatung für Existenzgründer und bestehende Unternehmen mit langjähriger Berufserfahrung. 
+Slug: beratung-und-coaching
 
 ----
 
-slug: beratung-und-coaching
+Description: Sie suchen eine Beratung bei der Existenz- oder Vereinsgründung? Sie suchen Beratung für Ihr bereits bestehendes Unternehmen? Sie benötigen einen externen Projektmanager? Wir sind eine moderne, inhabergeführte Unternehmensberatung für Existenzgründer und bestehende Unternehmen mit langjähriger Berufserfahrung.
 
 ----
 
-Header-image: 
-
-- coaching.jpg
+Header-image: - coaching.jpg
 
 ----
 
@@ -20,7 +18,7 @@ Back-link: Zurück zur Startseite
 
 ----
 
-Text: 
+Text:
 
 <p>Wir beraten Sie bei der Unternehmens-/Vereinsgründung</p>
 
@@ -49,3 +47,7 @@ Other-offer-paths:
   path: rechnungswesen-und-buchhaltung
 - 
   path: sales-promotion-healthcare-services
+
+----
+
+Uuid: zcMvJ1omWeP9uzpF

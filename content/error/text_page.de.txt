@@ -1,19 +1,8 @@
-title: Fehler
-
-----
-slug: 404
-----
-
-description: Fehler
-----
-
-header-image: 
-
-- business-1.jpg
+Title: Fehler
 
 ----
 
-Back-link: Zurück zur Startseite
+Slug: 404
 
 ----
 
@@ -31,10 +20,26 @@ Body:
     },
     {
         "content": {
-            "text": "<p>Die Seite, auf die Sie zugreifen wollen scheint leider nicht zu existieren.</p>"
+            "text": "<p>Die Seite, auf die Sie zugreifen wollen scheint leider nicht zu existieren. </p>"
         },
         "id": "a48aea2c-e801-4c9f-a3df-7480b36975f7",
         "isHidden": false,
         "type": "text"
     }
 ]
+
+----
+
+Description: Fehler
+
+----
+
+Header-image: - file://T7U1gwPLfvkrKzkY
+
+----
+
+Back-link: Zurück zur Startseite
+
+----
+
+Uuid: 1UAprkja6FSV7B2l

@@ -31,8 +31,7 @@ Referenzen:
   name: 'RA für Handels- und Gesellschaftsrecht sowie Fachanwalt für Steuerrecht, Dr. Niels George'
   link: http://www.georgepartner.de
   logo_path:
-    - >
-      georgepartner_rechtsanwälte_logo_rgb-min.png
+    - georgepartner_rechtsanwaelte_logo_rgb-min.png
 - 
   name: >
     KONTOR Steuerberatungsgesellschaft mbH

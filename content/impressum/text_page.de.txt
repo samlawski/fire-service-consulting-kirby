@@ -11,7 +11,7 @@ Body:
 [
     {
         "content": {
-            "text": "<p><strong>FiRe Service &amp; Consulting</strong></p><p>Inhaberin: Cornelia Toussaint</p><p>Dohnaer Straße 73</p><p>01219 Dresden</p><p>Tel: 0351 840 359 96</p><p>Fax: 0351 840 324 30</p><p>E-Mail: <a href=\"mailto:ct@fire-service-consulting.de\" rel=\"noopener noreferrer nofollow\">ct@fire-service-consulting.de</a></p><p>Steuernummer: 20/562/00273</p><p>Umsatzsteuer-ID: DE253989088</p><p>Finanzamt Berlin-Steglitz</p>"
+            "text": "<p><strong>FiRe Service &amp; Consulting</strong></p><p>Inhaberin: Cornelia Toussaint</p><p>Dohnaer Straße 73</p><p>01219 Dresden</p><p>Tel: 0351 840 359 96</p><p>Fax: 0351 840 324 30</p><p>E-Mail: <a href=\"mailto:ct@fire-service-consulting.de\" rel=\"noopener noreferrer nofollow\">ct@fire-service-consulting.de</a></p><p>Steuernummer: 203/282/16699</p><p>Umsatzsteuer-ID: DE253989088</p><p>Finanzamt Dresden-Süd</p>"
         },
         "id": "c70426d7-9e1c-4d00-95a4-2aeaab6c446a",
         "isHidden": false,
@@ -42,10 +42,12 @@ Description: Impressum
 
 ----
 
-Header-image:
-
-- business-1.jpg
+Header-image: - business-1.jpg
 
 ----
 
 Back-link: Zurück zur Startseite
+
+----
+
+Uuid: d8paTh0lKVtOWAVW

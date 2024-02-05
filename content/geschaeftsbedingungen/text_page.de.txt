@@ -2,7 +2,7 @@ Title: Geschäftsbedingungen
 
 ----
 
-slug: geschaeftsbedingungen
+Slug: geschaeftsbedingungen
 
 ----
 
@@ -76,10 +76,12 @@ Description: Geschäftsbedingungen
 
 ----
 
-Header-image:
-
-- business-1.jpg
+Header-image: - business-1.jpg
 
 ----
 
 Back-link: Zurück zur Startseite
+
+----
+
+Uuid: 8BsWAMkxEFvAURqS
